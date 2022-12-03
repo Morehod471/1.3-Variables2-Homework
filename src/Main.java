@@ -125,6 +125,6 @@ public class Main {
         int cristinaSalaryYearDiff = (cristinaSalaryUp - cristinaSalary) * 12;
         System.out.println("Маша теперь получает " + mashaSalaryUp + " рублей. Годовой доход вырос на " + mashaSalaryYearDiff + " рублей");
         System.out.println("Денис теперь получает " + denisSalaryUp + " рублей. Годовой доход вырос на " + denisSalaryYeaDiff + " рублей");
-        System.out.println("Кристина теперь получает " + cristinaSalaryUp + " рублей. Годовой доход вырос на " + cristinaSalaryYearDiff + " рублей");
+        System.out.println("Кристина теперь получает  " + cristinaSalaryUp + " рублей. Годовой доход вырос на " + cristinaSalaryYearDiff + " рублей");
     }
 }
